@@ -1,0 +1,11 @@
+Ala 99.8
+Piotr 120
+
+ala 120.0
+olek 33
+piotr 200
+Ala  300
+łukasz 332
+głupia linia
+głupia linia 2
+200 ala

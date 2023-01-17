@@ -1,0 +1,5 @@
+makaron 2.0 szt 8.35
+czipsy 6.0 szt 8.17
+mleko 9.0 szt 3.24
+piwo 1.0 szt 2.57
+ser 5.0 szt 3.76

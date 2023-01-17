@@ -1,0 +1,5 @@
+piwo 1.0 szt 0.1
+kiwi 4.0 szt 3.81
+piwo 3.0 szt 0.1
+piwo 7.0 szt 0.1
+kiwi 4.0 szt 3.81
